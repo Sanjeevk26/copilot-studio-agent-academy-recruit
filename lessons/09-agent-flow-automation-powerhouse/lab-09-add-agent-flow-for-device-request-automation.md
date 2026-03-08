@@ -1,9 +1,3 @@
-Folder name:
-lessons/09-agent-flow-automation-powerhouse
-
-File name:
-lessons/09-agent-flow-automation-powerhouse/lab-09-add-agent-flow-for-device-request-automation.md
-
 # Lab 09 – Add an Agent Flow for Automation and Enhance Topic Capabilities
 
 ## Lab Objective
