@@ -1,10 +1,4 @@
-Folder name:
-lessons/10-publish-agent-and-configure-channels
-
-File name:
-lessons/10-publish-agent-and-configure-channels/README.md
-
-# Lesson 10 – Publish an Agent and Configure Channels
+# Lesson 11 – Publish an Agent and Configure Channels
 
 ## Overview
 
@@ -265,7 +259,3 @@ A good publishing workflow is:
 - Trial environments may not support publishing
 
 ---
-
-## Next Step
-
-After understanding publishing and channel configuration, the next practical step is to publish the agent, add the required channels, validate the behavior in Microsoft Teams and Microsoft 365 Copilot, and prepare it for organizational rollout.
