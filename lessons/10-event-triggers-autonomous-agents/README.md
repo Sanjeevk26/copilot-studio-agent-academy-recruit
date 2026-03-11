@@ -1,9 +1,3 @@
-Folder name:
-lessons/11-event-triggers-autonomous-agents
-
-File name:
-lessons/11-event-triggers-autonomous-agents/README.md
-
 # Lesson 11 – Event Triggers: Enable Autonomous Agent Capabilities
 
 ## Overview
@@ -373,7 +367,3 @@ If a trigger type is unavailable, consult the environment administrator.
 - Security, testing, and monitoring are essential for production deployments
 
 ---
-
-## Next Step
-
-After understanding event triggers conceptually, the next step is to implement them by creating event-driven automation that connects external system events to agent responses, enabling proactive business workflows.
