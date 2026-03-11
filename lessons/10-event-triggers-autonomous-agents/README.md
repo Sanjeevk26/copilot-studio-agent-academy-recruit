@@ -1,4 +1,4 @@
-# Lesson 11 – Event Triggers: Enable Autonomous Agent Capabilities
+# Lesson 10 – Event Triggers: Enable Autonomous Agent Capabilities
 
 ## Overview
 
