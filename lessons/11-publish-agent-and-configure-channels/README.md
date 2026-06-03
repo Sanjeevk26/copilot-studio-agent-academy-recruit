@@ -247,15 +247,3 @@ A good publishing workflow is:
 8. Roll out more broadly once confirmed
 
 ---
-
-## Key Takeaways
-
-- Publishing is what makes the latest version of your agent live
-- Unpublished changes are not visible to end users
-- Channels determine where the agent can be accessed
-- Microsoft Teams and Microsoft 365 Copilot are primary enterprise deployment channels
-- Different channels support different experiences and UI capabilities
-- Testing in each target channel is essential before broad release
-- Trial environments may not support publishing
-
----
