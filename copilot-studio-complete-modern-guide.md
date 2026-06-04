@@ -357,7 +357,5 @@ Think in layers:
 6. Governance — What is allowed
 7. Analytics — How it improves
 
-If you understand these layers, you understand Copilot Studio.
-
 ---
 
